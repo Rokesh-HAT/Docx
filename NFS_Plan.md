@@ -17,7 +17,6 @@ Storage persistence is required for stateful applications in a Kubernetes cluste
 
 ### Must Have:
 - Deploy a functioning NFS solution in GKE.
-- Provide step-by-step setup instructions.
 - Compare different approaches.
 
 ### Nice to Have:
