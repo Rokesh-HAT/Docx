@@ -50,7 +50,7 @@ In this approach, you set up a dedicated NFS server on a Google Compute Engine (
 
 **Cons:**
 - Manual maintenance required.
-- Single point of failure unless HA is implemented.
+- Single point of failure.
 - Performance degradation if not properly optimized.
 
 ### 2️⃣ Using NFS Subdir External Provisioner
